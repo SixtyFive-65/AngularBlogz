@@ -1,0 +1,35 @@
+1. Download .Net SDK and .Net Runtime https://dotnet.microsoft.com/en-us/download
+  -SDK
+  -Runtime
+
+2.Install Visual Studio : https://visualstudio.microsoft.com/vs/community/
+
+3.Download SQL Server https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+  ->Developer
+  -> Install SSMS once done
+
+4.Install Visual Studio Code  : https://code.visualstudio.com/
+
+5. Download Visual Studio Code Extensions (Settings->Extentions)
+
+  -ESLint (Microsoft)
+  -Angular Snippets (John Papa)
+  -CSS Formatter  (Martin Aeschlimann)
+  -Angular Language Service(Angular)
+  -Angular Language Service(Zignd)
+  -Path Intellisense (Christian Kohler)
+
+6.Download and Install NodeJs : https://nodejs.org/en/download/prebuilt-installer
+
+7.Install Angular CLI( command line interface) : https://v17.angular.io/cli ::: Open command prompt.
+
+->ng version   // Check if Angular is installed and which version
+->npm uninstall -g @angular/cli   // Unistalls any angular versions
+
+->npm install -g @angular/cli@16.0.2   //Install Angular version 16.0.2
+->ng version // confirm installation
+
+
+
+
+
