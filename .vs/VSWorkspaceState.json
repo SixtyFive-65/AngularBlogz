@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\API",
+    "\\API\\AngularAPI"
   ],
+  "SelectedNode": "\\API\\AngularAPI\\AngularAPI.sln",
   "PreviewInSolutionExplorer": false
 }

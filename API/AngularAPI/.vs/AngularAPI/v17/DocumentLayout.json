@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|c:\\code\\repos\\angular latest\\api\\angularapi\\angularapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|solutionrelative:angularapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|c:\\code\\repos\\angular latest\\api\\angularapi\\angularapi\\repo\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|solutionrelative:angularapi\\repo\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|c:\\code\\repos\\angular latest\\api\\angularapi\\angularapi\\repo\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|solutionrelative:angularapi\\repo\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|c:\\code\\repos\\angular latest\\api\\angularapi\\angularapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|solutionrelative:angularapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|c:\\code\\repos\\angular latest\\api\\angularapi\\angularapi\\data\\angularapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|solutionrelative:angularapi\\data\\angularapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|c:\\code\\repos\\angular latest\\api\\angularapi\\angularapi\\models\\dto\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|solutionrelative:angularapi\\models\\dto\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|c:\\code\\repos\\angular latest\\api\\angularapi\\angularapi\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|solutionrelative:angularapi\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|c:\\code\\repos\\angular latest\\api\\angularapi\\angularapi\\migrations\\20240528173222_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|solutionrelative:angularapi\\migrations\\20240528173222_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|c:\\code\\repos\\angular latest\\api\\angularapi\\angularapi\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|solutionrelative:angularapi\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|c:\\code\\repos\\angular latest\\api\\angularapi\\angularapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D16F7977-6CC0-4010-82A7-E35B62E30112}|AngularAPI\\AngularAPI.csproj|solutionrelative:angularapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,6 +95,136 @@
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Repo\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "AngularAPI\\Repo\\CategoryRepo.cs",
+              "ToolTip": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Repo\\CategoryRepo.cs",
+              "RelativeToolTip": "AngularAPI\\Repo\\CategoryRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:56:40.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryRepo.cs",
+              "DocumentMoniker": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Repo\\ICategoryRepo.cs",
+              "RelativeDocumentMoniker": "AngularAPI\\Repo\\ICategoryRepo.cs",
+              "ToolTip": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Repo\\ICategoryRepo.cs",
+              "RelativeToolTip": "AngularAPI\\Repo\\ICategoryRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:56:28.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AngularApiDbContext.cs",
+              "DocumentMoniker": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Data\\AngularApiDbContext.cs",
+              "RelativeDocumentMoniker": "AngularAPI\\Data\\AngularApiDbContext.cs",
+              "ToolTip": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Data\\AngularApiDbContext.cs",
+              "RelativeToolTip": "AngularAPI\\Data\\AngularApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:50:36.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Models\\DTO\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "AngularAPI\\Models\\DTO\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Models\\DTO\\CreateCategoryDto.cs",
+              "RelativeToolTip": "AngularAPI\\Models\\DTO\\CreateCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:38:36.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "AngularAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "AngularAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:34:41.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240528173222_Initial.cs",
+              "DocumentMoniker": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Migrations\\20240528173222_Initial.cs",
+              "RelativeDocumentMoniker": "AngularAPI\\Migrations\\20240528173222_Initial.cs",
+              "ToolTip": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Migrations\\20240528173222_Initial.cs",
+              "RelativeToolTip": "AngularAPI\\Migrations\\20240528173222_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:32:23.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AngularAPI\\Program.cs",
+              "ToolTip": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Program.cs",
+              "RelativeToolTip": "AngularAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:02:22.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AngularAPI\\appsettings.json",
+              "ToolTip": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\appsettings.json",
+              "RelativeToolTip": "AngularAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T17:00:37.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Models\\Domain\\BlogPost.cs",
+              "RelativeDocumentMoniker": "AngularAPI\\Models\\Domain\\BlogPost.cs",
+              "ToolTip": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Models\\Domain\\BlogPost.cs",
+              "RelativeToolTip": "AngularAPI\\Models\\Domain\\BlogPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:48:50.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Models\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "AngularAPI\\Models\\Domain\\Category.cs",
+              "ToolTip": "C:\\Code\\Repos\\Angular Latest\\API\\AngularAPI\\AngularAPI\\Models\\Domain\\Category.cs",
+              "RelativeToolTip": "AngularAPI\\Models\\Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:48:40.246Z",
+              "EditorCaption": ""
             }
           ]
         }
