@@ -1,5 +1,0 @@
-1.Go to UI folder : Folder the UI is going to be created on and open Powershell... e.g C:\Code\Repos\Angular Latest\UI  (Shift+RightClick)
-
-**If power shell gives a script error, use CMD
-
-->ng new AngularUI(AngularUI is the project name)

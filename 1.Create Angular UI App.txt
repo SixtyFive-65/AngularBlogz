@@ -1,0 +1,47 @@
+1.Go to UI folder : Folder the UI is going to be created on and open Powershell... e.g C:\Code\Repos\Angular Latest\UI  (Shift+RightClick)
+
+**If power shell gives a script error, use CMD
+
+->ng new AngularUI(AngularUI is the project name)   -> Select Css
+
+After Installation completes navigate inside folder
+
+->cd C:\Code\Repos\Angular Latest\UI\AngularUI
+
+open visual studio code
+
+->code .
+
+Run application
+
+->ng server --open 
+
+2. Angular Components are the building blocks of an application.  app.component.ts (typescript file ) contains the components selector
+
+->Components are grouped in the app folder ->app.component.css   contains css (local styles per component)
+									      ->app.component.html   contains html
+									      ->app.component.ts     typscript file that has the component
+									      ->app.component.module.ts  (NB handles Imports, declarations)
+									      ->app-routing.module.ts  used to create routes to components
+
+**main.ts Starts up the app.component.module.ts 
+**styles.css to add global styles
+
+component.module.ts is  
+
+3. Html 
+
+<body>
+  <app-root></app-root>  // app-root is the component
+</body>
+
+4. Typscript File
+
+@Component({
+  selector: 'app-root',                         //app-root is the component selector
+  templateUrl: './app.component.html',   //the sites html same folder
+  styleUrls: ['./app.component.css']         //sites css also in the same folder
+})
+
+
+5.Assets folder contains any static data like Images.

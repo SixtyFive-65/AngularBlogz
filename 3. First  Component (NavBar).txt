@@ -1,0 +1,54 @@
+****The "app folder contains our application"
+
+1.Create new folder under app called core(it will handle admin functionality). -> add components folder inside core folder for the components.
+
+
+2.Inside VS Code -> Open new Terminal :-> navigate inside components folder
+
+->cd .\src\app\Core\Components\    (If Terminal gives a script error then use CMD)
+
+-> ng g c navbar   same as  ng generate component navbar   
+
+***Above will create 4 component files (css,html,spec.ts and ts(typescript)
+
+
+3.Open app.component.html and add the navbar
+
+<app-navbar></app-navbar>
+
+4. Copy a navbar template from getBootstrap and replace the nabra.component.html 
+
+<nav class="navbar bg-dark border-bottom border-body" data-bs-theme="dark">
+    <div class="container">
+      <a class="navbar-brand" href="#">Angular UI</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Admin
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Categories</a></li>
+              <li><a class="dropdown-item" href="#">Blog Posts</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="#">Something else here</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+
+
+
+
+
+
